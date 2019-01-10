@@ -17,6 +17,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     
     var branchNumber1 = "Branch1"
       var branchNumber2 = "Branch2"
+    var branchNumber3 = "Branch3"
     
     override func viewDidLoad() {
         super.viewDidLoad()
