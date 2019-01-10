@@ -16,6 +16,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     @IBOutlet var sceneView: ARSCNView!
     
     var branchNumber1 = "Branch1"
+      var branchNumber2 = "Branch2"
     
     override func viewDidLoad() {
         super.viewDidLoad()
